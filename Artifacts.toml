@@ -1,9 +1,9 @@
 [[AOCL]]
 arch = "x86_64"
-git-tree-sha1 = "6794aa2f3ccec2bc203ca5372fca1938d12fce30"
+git-tree-sha1 = "c6c1e62cdfa88ee19269ff0755a79c7d4bdcbf01"
 libc = "glibc"
 os = "linux"
 
     [[AOCL.download]]
-    sha256 = "3c3b4713e3a1b7843e4dd151de6164bcb958f90126b16f6735c6941dd08cd036"
-    url = "https://github.com/JuliaBinaryWrappers/AOCL_jll.jl/releases/download/AOCL-v5.3.1+0/AOCL.v5.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "94a00f71df81386c86f5f600256ba909fa3fb13fd0f5045a9f749c1ae5adb76d"
+    url = "https://github.com/JuliaBinaryWrappers/AOCL_jll.jl/releases/download/AOCL-v5.3.2+0/AOCL.v5.3.2.x86_64-linux-gnu.tar.gz"
