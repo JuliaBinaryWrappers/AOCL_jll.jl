@@ -1,9 +1,10 @@
 [[AOCL]]
 arch = "x86_64"
-git-tree-sha1 = "c6c1e62cdfa88ee19269ff0755a79c7d4bdcbf01"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db68ced543cf5ee0727065e006c1553c4a15d3bf"
 libc = "glibc"
 os = "linux"
 
     [[AOCL.download]]
-    sha256 = "94a00f71df81386c86f5f600256ba909fa3fb13fd0f5045a9f749c1ae5adb76d"
-    url = "https://github.com/JuliaBinaryWrappers/AOCL_jll.jl/releases/download/AOCL-v5.3.2+0/AOCL.v5.3.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "a5121df777e295c9d87141115332439a3e840a0cf46881f64a1de14e901d2104"
+    url = "https://github.com/JuliaBinaryWrappers/AOCL_jll.jl/releases/download/AOCL-v6.0.0+0/AOCL.v6.0.0.x86_64-linux-gnu-cxx11.tar.gz"
